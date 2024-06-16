@@ -1,14 +1,6 @@
-# 第一个网页
+# Handout
 
-## welcome to my website.
-
-### Statement			
-
-I am a senior undergraduate majoring in mathematics, with a keen interest in algebraic topology and geometric topoloogy.For my upcoming graduate career, I am privileged to have the guidance of Professor Pan Huiping. Under his mentorship this semester, I am immersed in studying the thoery of Quadratic Differentials and Teichmüller Spaces, areas of research that deeply explore the topology and geometry ofRiemann Surfaces. During this semester, I am also presenting a report on the Quadratic Differentials by Stebel in Prof. Huiping Pan's reading.
-
-see [Vitae](assets/CV-cjp.pdf)
-
-### htp-invarance of (Singular) homology
+## htp-invarance of (Singular) homology
 
 **Main thm** If $f,g:X\to Y$ is homotopic, then $f,g$ induces the same homology homomorphism $H_{*}(X)\to H_{*}(Y)$.
 
@@ -18,9 +10,11 @@ We name the opeation prism(cylinder) operation $P:C_n\to C_{n+1}$. Given $n$-sim
 
 What you need to do is to design any method of subdividing $\Delta^{n}\times I$ into $n+1$ $n-$simplexes geomoetrically.(我曾经从组合结构上想代数表达式，无功而返，难度较高，可行但远不如几何上想一个细分方法简洁直观)。Now similar to exhaustion,we give the subdicision by a "exhaustion"  function.
 
+ 
 
 
-see [handouts](Handout/index.md) 
+
+
 
 $\square$ 
 
