@@ -6,7 +6,7 @@
 
 I am a senior undergraduate majoring in mathematics, with a keen interest in algebraic topology and geometric topoloogy.For my upcoming graduate career, I am privileged to have the guidance of Professor Pan Huiping. Under his mentorship this semester, I am immersed in studying the thoery of Quadratic Differentials and Teichmüller Spaces, areas of research that deeply explore the topology and geometry ofRiemann Surfaces. During this semester, I am also presenting a report on the Quadratic Differentials by Stebel in Prof. Huiping Pan's reading.
 
-
+see [Vitae](assets/CV-cjp.pdf)
 
 ### htp-invarance of (Singular) homology
 
