@@ -4,7 +4,7 @@ Email: caoscut@163.com
 
 Address: 4232B No. 4 Bldg, SCUT, Guangzhou, Guangdong, China
 
-CV: [Vitae](CV_HaoSun.pdf) 
+CV: [Vitae](CV-cjp.pdf) 
 
 * [Publications, Preprints, Notes and Slides](Publication.md)
 * [Teaching](teaching.md)
