@@ -19,3 +19,5 @@ CV: [Vitae](CV-cjp.pdf)
 [王作勤老师](http://staff.ustc.edu.cn/~wangzuoq/Courses/index.html) 
 
 [MIT开放课程讲义](https://ocw.mit.edu/courses/18-905-algebraic-topology-i-fall-2016/pages/lecture-notes/) 
+
+[科大数学指南](https://www.zhangjy9610.me/USTC/ustcmathplan3.pdf) 
