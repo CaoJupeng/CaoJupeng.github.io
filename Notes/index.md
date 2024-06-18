@@ -8,7 +8,7 @@
 
 [拟共形映射](short note and tool for qc maps.md)
 
-[层化](层化过程) 
+[层化](层化过程.pdf) 
 
 [层的etale空间](层与etale空间.pdf) 
 
