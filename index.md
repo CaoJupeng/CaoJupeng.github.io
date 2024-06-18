@@ -12,6 +12,10 @@ CV: [Vitae](CV-cjp.pdf)
 
 * [Notes](Notes/index.md) 
 
+公式显示：设 $f:X\to Y$ 为同胚
+$$
+\int_{a}^{b}f(x)dx=F(b)-F(a).
+$$
 
 
 ## Useful links
