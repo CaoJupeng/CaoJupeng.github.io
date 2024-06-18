@@ -6,7 +6,7 @@ Address: SCUT, Guangzhou, Guangdong, China
 
 ## About me
 
-I am an student of [South China University of Technology](https://www.scut.edu.cn/new/). My research interest is algebraic topology and geometric topology. For my upcoming graduate career, I am privileged to have the guidance of Professor Pan Huiping. Under his mentorship this semester, I am immersed in studying the thoery of *Quadratic Differentials* and *Teichmüller Spaces*, fields of research that deeply explore the topology and geometry of*Riemann Surfaces*. During this semester, I am also presenting a report on the [*Quadratic Differentials*](https://link.springer.com/book/10.1007/978-3-662-02414-0) by Stebel in Prof. H. Pan’s reading seminar.
+I am an student of [South China University of Technology](https://www.scut.edu.cn/new/). My research interest is algebraic topology and geometric topology. For my upcoming graduate career, I am privileged to have the guidance of Professor [Pan Huiping](https://www2.scut.edu.cn/math/2018/0316/c14638a482211/page.htm). Under his mentorship this semester, I am immersed in studying the thoery of *Quadratic Differentials* and *Teichmüller Spaces*, fields of research that deeply explore the topology and geometry of*Riemann Surfaces*. During this semester, I am also presenting a report on the [*Quadratic Differentials*](https://link.springer.com/book/10.1007/978-3-662-02414-0) by Stebel in Prof. H. Pan’s reading seminar.
 
 CV: [Vitae](CV-cjp.pdf) 
 
