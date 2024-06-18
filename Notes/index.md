@@ -1,7 +1,5 @@
 [htp invarance of homolog](handout-htp invarance of homology.md) 
 
-[IFT](handout-Implict function theorem.md) 
-
 [Monodromy](monodromy恢复覆盖.md) 
 
 [路径追踪](路径追踪中的典型结构.md) 
