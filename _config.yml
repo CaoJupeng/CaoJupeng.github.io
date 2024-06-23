@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: [Cao Jupeng(曹聚鹏)]
-# description: []
+description: []
 
 markdown: kramdown
 kramdown:
